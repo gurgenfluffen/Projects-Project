@@ -1,0 +1,16 @@
+package project;
+/**
+ * @author ednag
+ */
+import projects.dao.DbConnection;
+/**
+ * @param args
+ */
+public class ProjectsApp {
+
+	public static void main(String[] args) {
+		DbConnection.getConnection();
+
+	}
+
+}
