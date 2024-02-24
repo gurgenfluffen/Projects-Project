@@ -1,7 +1,5 @@
 package project;
 
-
-
 import projects.dao.DbConnection;
 
 public class ProjectsApp {
