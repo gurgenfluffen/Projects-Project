@@ -1,2 +1,3 @@
-"# Week-07" 
-"# Week-07" 
+This project is a database project. The database and schema in question is meant to hold different projects and details for those projects. Users can add projects, update projects, and delete projects. This application is menu-driven, and requires a significant amount of user input. This application helps users organize the projects they wish to complete, from inputting the steps, to the materials needed, to the amount of time it would take to complete. I believe the most important feature is the ability to update a project after adding it to the database.
+
+This project was made with both Java and SQL. I used Eclipse, MySQL, and DBeaver.
